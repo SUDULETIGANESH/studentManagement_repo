@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ganesh",
+    "department": "CSE",
+    "dob": "12/09/2001"
+  },
+  {
+    "name": "Mahesh",
+    "department": "CSE",
+    "dob": "22/10/2001"
+  }
+]
